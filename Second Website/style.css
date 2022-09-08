@@ -1,0 +1,55 @@
+
+.header {
+    background-color: blue;
+    height: 100px;
+  }
+  
+
+  body {
+
+  background-image:url( fewgwiu.jpeg );
+  background-size: 100%;
+
+  }
+
+  .nav { 
+
+       background-color:green;
+
+  }
+ .section {
+background-color: white;
+height: 100vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+.article {
+   background-color: green  ;
+   background-color: white;
+   height : 100%  ;
+display:flex;
+width:75vw;
+
+margin:10px 10px;
+
+}
+
+.text p img {
+   width: 50%;
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
